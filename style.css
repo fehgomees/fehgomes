@@ -1,9 +1,13 @@
-.menu__titulo {
+.inicio {
+    text-align: center;
+}
+
+.menu__titulo  {
     text-align: justify;
     font-family: Niconne;
     font-size: 70px;
     margin-top: auto;
-    display: flex;
+    display: inline;
 
 }
 
@@ -11,4 +15,10 @@
     border-radius: 900px;
     width: 170px;
     height: 150px;
+    margin: auto;
+    display: block;
+}
+
+.formacao__div {
+    text-align: center;
 }
